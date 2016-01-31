@@ -4,7 +4,7 @@ CHANGELOG
 3.0.0
 -----
 
-  * The method `getListenerPriority($eventName, $listener)` has been added to the
+   * The method `getListenerPriority($eventName, $listener)` has been added to the
     `EventDispatcherInterface`.
   * The methods `Event::setDispatcher()`, `Event::getDispatcher()`, `Event::setName()`
     and `Event::getName()` have been removed.
